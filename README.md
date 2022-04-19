@@ -113,3 +113,4 @@ app.Run();
 ```
 ### Fazendo As Consultas No Swagger
 
+![Swagger](https://user-images.githubusercontent.com/83560879/164003184-bf81fc21-c2a7-4d1e-8ed1-54b518133116.png)
