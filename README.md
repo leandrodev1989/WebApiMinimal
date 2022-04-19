@@ -1,1 +1,10 @@
-WebApiMinimal
+# Criação de Uma MinimalApi
+
+### TECNOLOGIAS USADAS
+
+* VISUAL STUDIO 2022
+* ASPNET CORE6
+* SWAGGER
+* ENTITYFRAMEWORKCORE
+
+
